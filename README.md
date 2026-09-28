@@ -8,18 +8,18 @@ Electronic and Electrical Engineering student at **University College London (UC
 
 ## Projects
 
-| Project | What it is | Tools |
-|---|---|---|
-| [Power Outage Risk Forecasting](https://github.com/JavidMammadov08/power-outage-forecasting) | Data pipeline turning 12 years of US outage records and weather forecasts into per-county time series for forecasting | Python, pandas, Open-Meteo API |
-| [Autonomous Maze Robot](https://github.com/JavidMammadov08/autonomous-maze-robot) | Navigation software for an omni-directional robot that solved a maze autonomously (full marks) | Arduino, C++ |
-| Electromagnet Coil Design 🔒 | Analytical model and simulation to design a battery-powered lifting electromagnet | MATLAB, FEMM |
-| Bioreactor Control System 🔒 | Web-controlled bioreactor regulating stirring, temperature and pH | ESP32, C++ |
-| FPGA Digital Logic 🔒 | Adders and an accumulator counter built and tested on an FPGA board | Intel Quartus |
+### ⚡ [Power Outage Risk Forecasting](https://github.com/JavidMammadov08/power-outage-forecasting)
+Forecasts the share of customers without power in five US counties, 48 hours and 6 hours ahead, from ECMWF weather forecasts and 12 years of outage records. Built with strict no-look-ahead rules and a time-based test split; the 6-hour model detected 38% of outage periods in a held-out 3-month test.
 
-🔒 = coursework, code kept private and available on request.
+`Python` `pandas` `LightGBM` `Open-Meteo API`
+
+### 🤖 [Autonomous Maze Robot](https://github.com/JavidMammadov08/autonomous-maze-robot)
+Navigation software for an Arduino Mega omni-directional robot that completed the maze fully autonomously and received full marks. A non-blocking state machine with encoder-based gap detection and pattern-aware search; I also integrated three teammates' subsystems into one codebase.
+
+`C++` `Arduino` `Embedded systems`
 
 ## Skills
 
 **Languages:** C, C++ (Arduino), Python, MATLAB  
 **Hardware:** Arduino, ESP32, FPGA (Intel Quartus), KiCad (basic)  
-**Tools:** Git, FEMM, lab instruments (oscilloscope, multimeter, signal generator)
+**Tools:** Git, LightGBM, pandas, FEMM, lab instruments (oscilloscope, multimeter, signal generator)
