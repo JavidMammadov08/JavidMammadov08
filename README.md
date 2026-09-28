@@ -4,7 +4,7 @@ Electronic and Electrical Engineering student at **University College London (UC
 
 - 🎓 BEng Electronic and Electrical Engineering, UCL (2025 – 2028)
 - 🧭 UCL Transition Mentor for first-year students
-- 📫 javidmammadov08@gmail.com · [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)
+- 📫 javidmammadov08@gmail.com · [LinkedIn](https://www.linkedin.com/in/javid-mammadov-310712377/)
 
 ## Projects
 
@@ -14,7 +14,7 @@ Forecasts the share of customers without power in five US counties, 48 hours and
 `Python` `pandas` `LightGBM` `Open-Meteo API`
 
 ### 🤖 [Autonomous Maze Robot](https://github.com/JavidMammadov08/autonomous-maze-robot)
-Navigation software for an Arduino Mega omni-directional robot that completed the maze fully autonomously and received full marks. A non-blocking state machine with encoder-based gap detection and pattern-aware search; I also integrated three teammates' subsystems into one codebase.
+Navigation software for an Arduino Mega omni-directional robot that completed the maze fully autonomously and received full marks. A non-blocking state machine with encoder-based gap detection and pattern-aware search; I also integrated four teammates' subsystems into one codebase.
 
 `C++` `Arduino` `Embedded systems`
 
